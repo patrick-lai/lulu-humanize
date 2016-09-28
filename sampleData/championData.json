@@ -1,0 +1,1433 @@
+[{
+  "key": "Sona",
+  "lastUpdated": 1474725385693,
+  "name": "Sona",
+  "roles": [{
+    "name": "Support",
+    "percentPlayed": 95.72,
+    "games": 18456
+  }]
+}, {
+  "key": "Syndra",
+  "lastUpdated": 1474725385693,
+  "name": "Syndra",
+  "roles": [{
+    "name": "Middle",
+    "percentPlayed": 97.33,
+    "games": 20459
+  }]
+}, {
+  "key": "Kled",
+  "lastUpdated": 1474725385692,
+  "name": "Kled",
+  "roles": [{
+    "name": "Top",
+    "percentPlayed": 87.65,
+    "games": 6426
+  }]
+}, {
+  "key": "Vladimir",
+  "lastUpdated": 1474725385693,
+  "name": "Vladimir",
+  "roles": [{
+    "name": "Top",
+    "percentPlayed": 50.65,
+    "games": 3848
+  }, {
+    "name": "Middle",
+    "percentPlayed": 48.63,
+    "games": 3694
+  }]
+}, {
+  "key": "Janna",
+  "lastUpdated": 1474725385693,
+  "name": "Janna",
+  "roles": [{
+    "name": "Support",
+    "percentPlayed": 98.84,
+    "games": 43909
+  }]
+}, {
+  "key": "Vayne",
+  "lastUpdated": 1474725385692,
+  "name": "Vayne",
+  "roles": [{
+    "name": "ADC",
+    "percentPlayed": 89.61,
+    "games": 45287
+  }]
+}, {
+  "key": "Nasus",
+  "lastUpdated": 1474725385693,
+  "name": "Nasus",
+  "roles": [{
+    "name": "Top",
+    "percentPlayed": 95.55,
+    "games": 7779
+  }]
+}, {
+  "key": "Pantheon",
+  "lastUpdated": 1474725385692,
+  "name": "Pantheon",
+  "roles": [{
+    "name": "Top",
+    "percentPlayed": 73.97,
+    "games": 10206
+  }, {
+    "name": "Jungle",
+    "percentPlayed": 17.11,
+    "games": 2362
+  }]
+}, {
+  "key": "Kennen",
+  "lastUpdated": 1474725385693,
+  "name": "Kennen",
+  "roles": [{
+    "name": "Top",
+    "percentPlayed": 62.22,
+    "games": 9726
+  }, {
+    "name": "Middle",
+    "percentPlayed": 32.9,
+    "games": 5143
+  }]
+}, {
+  "key": "Riven",
+  "lastUpdated": 1474725385693,
+  "name": "Riven",
+  "roles": [{
+    "name": "Top",
+    "percentPlayed": 92.16,
+    "games": 33310
+  }]
+}, {
+  "key": "Shyvana",
+  "lastUpdated": 1474725385692,
+  "name": "Shyvana",
+  "roles": [{
+    "name": "Jungle",
+    "percentPlayed": 90.04,
+    "games": 5771
+  }]
+}, {
+  "key": "Rengar",
+  "lastUpdated": 1474725385693,
+  "name": "Rengar",
+  "roles": [{
+    "name": "Jungle",
+    "percentPlayed": 84.66,
+    "games": 13727
+  }, {
+    "name": "Top",
+    "percentPlayed": 13.75,
+    "games": 2230
+  }]
+}, {
+  "key": "Fiora",
+  "lastUpdated": 1474725385693,
+  "name": "Fiora",
+  "roles": [{
+    "name": "Top",
+    "percentPlayed": 98.12,
+    "games": 16247
+  }]
+}, {
+  "key": "Quinn",
+  "lastUpdated": 1474725385693,
+  "name": "Quinn",
+  "roles": [{
+    "name": "Top",
+    "percentPlayed": 62.17,
+    "games": 3915
+  }, {
+    "name": "Jungle",
+    "percentPlayed": 16.05,
+    "games": 1011
+  }, {
+    "name": "ADC",
+    "percentPlayed": 13.43,
+    "games": 846
+  }]
+}, {
+  "key": "Zac",
+  "lastUpdated": 1474725385693,
+  "name": "Zac",
+  "roles": [{
+    "name": "Jungle",
+    "percentPlayed": 93.86,
+    "games": 20857
+  }]
+}, {
+  "key": "Jhin",
+  "lastUpdated": 1474725385693,
+  "name": "Jhin",
+  "roles": [{
+    "name": "ADC",
+    "percentPlayed": 92.94,
+    "games": 45688
+  }]
+}, {
+  "key": "Zed",
+  "lastUpdated": 1474725385693,
+  "name": "Zed",
+  "roles": [{
+    "name": "Middle",
+    "percentPlayed": 92.7,
+    "games": 16634
+  }]
+}, {
+  "key": "Nami",
+  "lastUpdated": 1474725385693,
+  "name": "Nami",
+  "roles": [{
+    "name": "Support",
+    "percentPlayed": 98.88,
+    "games": 22472
+  }]
+}, {
+  "key": "Kalista",
+  "lastUpdated": 1474725385692,
+  "name": "Kalista",
+  "roles": [{
+    "name": "ADC",
+    "percentPlayed": 91.34,
+    "games": 2353
+  }]
+}, {
+  "key": "TwistedFate",
+  "lastUpdated": 1474725385692,
+  "name": "Twisted Fate",
+  "roles": [{
+    "name": "Middle",
+    "percentPlayed": 92.86,
+    "games": 14863
+  }]
+}, {
+  "key": "FiddleSticks",
+  "lastUpdated": 1474725385692,
+  "name": "Fiddlesticks",
+  "roles": [{
+    "name": "Jungle",
+    "percentPlayed": 84.69,
+    "games": 7880
+  }]
+}, {
+  "key": "Sion",
+  "lastUpdated": 1474725385693,
+  "name": "Sion",
+  "roles": [{
+    "name": "Top",
+    "percentPlayed": 62.84,
+    "games": 4984
+  }, {
+    "name": "Support",
+    "percentPlayed": 16.04,
+    "games": 1272
+  }, {
+    "name": "Jungle",
+    "percentPlayed": 12.96,
+    "games": 1028
+  }]
+}, {
+  "key": "Warwick",
+  "lastUpdated": 1474725385693,
+  "name": "Warwick",
+  "roles": [{
+    "name": "Jungle",
+    "percentPlayed": 87.61,
+    "games": 5442
+  }]
+}, {
+  "key": "Jax",
+  "lastUpdated": 1474725385693,
+  "name": "Jax",
+  "roles": [{
+    "name": "Top",
+    "percentPlayed": 62.34,
+    "games": 13346
+  }, {
+    "name": "Jungle",
+    "percentPlayed": 36.36,
+    "games": 7784
+  }]
+}, {
+  "key": "Twitch",
+  "lastUpdated": 1474725385692,
+  "name": "Twitch",
+  "roles": [{
+    "name": "ADC",
+    "percentPlayed": 76.03,
+    "games": 10929
+  }, {
+    "name": "Jungle",
+    "percentPlayed": 15.93,
+    "games": 2291
+  }]
+}, {
+  "key": "Anivia",
+  "lastUpdated": 1474725385692,
+  "name": "Anivia",
+  "roles": [{
+    "name": "Middle",
+    "percentPlayed": 91.85,
+    "games": 8960
+  }]
+}, {
+  "key": "Irelia",
+  "lastUpdated": 1474725385692,
+  "name": "Irelia",
+  "roles": [{
+    "name": "Top",
+    "percentPlayed": 94.58,
+    "games": 19851
+  }]
+}, {
+  "key": "Taric",
+  "lastUpdated": 1474725385692,
+  "name": "Taric",
+  "roles": [{
+    "name": "Support",
+    "percentPlayed": 92.18,
+    "games": 9085
+  }]
+}, {
+  "key": "Blitzcrank",
+  "lastUpdated": 1474725385693,
+  "name": "Blitzcrank",
+  "roles": [{
+    "name": "Support",
+    "percentPlayed": 93.37,
+    "games": 25535
+  }]
+}, {
+  "key": "Renekton",
+  "lastUpdated": 1474725385693,
+  "name": "Renekton",
+  "roles": [{
+    "name": "Top",
+    "percentPlayed": 97.76,
+    "games": 15078
+  }]
+}, {
+  "key": "Brand",
+  "lastUpdated": 1474725385693,
+  "name": "Brand",
+  "roles": [{
+    "name": "Middle",
+    "percentPlayed": 55.25,
+    "games": 10349
+  }, {
+    "name": "Support",
+    "percentPlayed": 40.07,
+    "games": 7506
+  }]
+}, {
+  "key": "Skarner",
+  "lastUpdated": 1474725385692,
+  "name": "Skarner",
+  "roles": [{
+    "name": "Jungle",
+    "percentPlayed": 97.77,
+    "games": 8666
+  }]
+}, {
+  "key": "Poppy",
+  "lastUpdated": 1474725385692,
+  "name": "Poppy",
+  "roles": [{
+    "name": "Top",
+    "percentPlayed": 65.82,
+    "games": 5562
+  }, {
+    "name": "Jungle",
+    "percentPlayed": 20.71,
+    "games": 1750
+  }, {
+    "name": "Support",
+    "percentPlayed": 11.37,
+    "games": 961
+  }]
+}, {
+  "key": "Yorick",
+  "lastUpdated": 1474725385692,
+  "name": "Yorick",
+  "roles": [{
+    "name": "Top",
+    "percentPlayed": 89.25,
+    "games": 8957
+  }]
+}, {
+  "key": "Malzahar",
+  "lastUpdated": 1474725385693,
+  "name": "Malzahar",
+  "roles": [{
+    "name": "Middle",
+    "percentPlayed": 86.12,
+    "games": 9246
+  }]
+}, {
+  "key": "Lux",
+  "lastUpdated": 1474725385693,
+  "name": "Lux",
+  "roles": [{
+    "name": "Middle",
+    "percentPlayed": 83.61,
+    "games": 23591
+  }, {
+    "name": "Support",
+    "percentPlayed": 13.37,
+    "games": 3773
+  }]
+}, {
+  "key": "Fizz",
+  "lastUpdated": 1474725385693,
+  "name": "Fizz",
+  "roles": [{
+    "name": "Middle",
+    "percentPlayed": 74.02,
+    "games": 12113
+  }, {
+    "name": "Jungle",
+    "percentPlayed": 15.79,
+    "games": 2584
+  }]
+}, {
+  "key": "Viktor",
+  "lastUpdated": 1474725385692,
+  "name": "Viktor",
+  "roles": [{
+    "name": "Middle",
+    "percentPlayed": 97.97,
+    "games": 14012
+  }]
+}, {
+  "key": "Draven",
+  "lastUpdated": 1474725385692,
+  "name": "Draven",
+  "roles": [{
+    "name": "ADC",
+    "percentPlayed": 93.04,
+    "games": 15547
+  }]
+}, {
+  "key": "Lissandra",
+  "lastUpdated": 1474725385693,
+  "name": "Lissandra",
+  "roles": [{
+    "name": "Middle",
+    "percentPlayed": 74.13,
+    "games": 9701
+  }, {
+    "name": "Top",
+    "percentPlayed": 23.76,
+    "games": 3109
+  }]
+}, {
+  "key": "Zyra",
+  "lastUpdated": 1474725385693,
+  "name": "Zyra",
+  "roles": [{
+    "name": "Support",
+    "percentPlayed": 84.83,
+    "games": 10653
+  }, {
+    "name": "Middle",
+    "percentPlayed": 11.38,
+    "games": 1430
+  }]
+}, {
+  "key": "Taliyah",
+  "lastUpdated": 1474725385692,
+  "name": "Taliyah",
+  "roles": [{
+    "name": "Middle",
+    "percentPlayed": 82,
+    "games": 2789
+  }]
+}, {
+  "key": "TahmKench",
+  "lastUpdated": 1474725385693,
+  "name": "Tahm Kench",
+  "roles": [{
+    "name": "Support",
+    "percentPlayed": 70.31,
+    "games": 7204
+  }, {
+    "name": "Top",
+    "percentPlayed": 17.55,
+    "games": 1799
+  }]
+}, {
+  "key": "Vi",
+  "lastUpdated": 1474725385693,
+  "name": "Vi",
+  "roles": [{
+    "name": "Jungle",
+    "percentPlayed": 97.37,
+    "games": 20595
+  }]
+}, {
+  "key": "Illaoi",
+  "lastUpdated": 1474725385692,
+  "name": "Illaoi",
+  "roles": [{
+    "name": "Top",
+    "percentPlayed": 97.37,
+    "games": 10061
+  }]
+}, {
+  "key": "Olaf",
+  "lastUpdated": 1474725385693,
+  "name": "Olaf",
+  "roles": [{
+    "name": "Top",
+    "percentPlayed": 59.4,
+    "games": 6592
+  }, {
+    "name": "Jungle",
+    "percentPlayed": 39.43,
+    "games": 4376
+  }]
+}, {
+  "key": "Leblanc",
+  "lastUpdated": 1474725385693,
+  "name": "LeBlanc",
+  "roles": [{
+    "name": "Middle",
+    "percentPlayed": 96.16,
+    "games": 22809
+  }]
+}, {
+  "key": "Alistar",
+  "lastUpdated": 1474725385692,
+  "name": "Alistar",
+  "roles": [{
+    "name": "Support",
+    "percentPlayed": 89.53,
+    "games": 15650
+  }]
+}, {
+  "key": "Teemo",
+  "lastUpdated": 1474725385692,
+  "name": "Teemo",
+  "roles": [{
+    "name": "Top",
+    "percentPlayed": 78.55,
+    "games": 9658
+  }]
+}, {
+  "key": "Ashe",
+  "lastUpdated": 1474725385692,
+  "name": "Ashe",
+  "roles": [{
+    "name": "ADC",
+    "percentPlayed": 93.59,
+    "games": 19421
+  }]
+}, {
+  "key": "Singed",
+  "lastUpdated": 1474725385692,
+  "name": "Singed",
+  "roles": [{
+    "name": "Top",
+    "percentPlayed": 94.12,
+    "games": 4549
+  }]
+}, {
+  "key": "Amumu",
+  "lastUpdated": 1474725385692,
+  "name": "Amumu",
+  "roles": [{
+    "name": "Jungle",
+    "percentPlayed": 96.52,
+    "games": 16854
+  }]
+}, {
+  "key": "Corki",
+  "lastUpdated": 1474725385692,
+  "name": "Corki",
+  "roles": [{
+    "name": "ADC",
+    "percentPlayed": 57.63,
+    "games": 5648
+  }, {
+    "name": "Middle",
+    "percentPlayed": 37.37,
+    "games": 3662
+  }]
+}, {
+  "key": "Swain",
+  "lastUpdated": 1474725385692,
+  "name": "Swain",
+  "roles": [{
+    "name": "Top",
+    "percentPlayed": 55.11,
+    "games": 4566
+  }, {
+    "name": "Middle",
+    "percentPlayed": 43.4,
+    "games": 3596
+  }]
+}, {
+  "key": "Nocturne",
+  "lastUpdated": 1474725385693,
+  "name": "Nocturne",
+  "roles": [{
+    "name": "Jungle",
+    "percentPlayed": 93.4,
+    "games": 10036
+  }]
+}, {
+  "key": "Orianna",
+  "lastUpdated": 1474725385692,
+  "name": "Orianna",
+  "roles": [{
+    "name": "Middle",
+    "percentPlayed": 97.24,
+    "games": 20847
+  }]
+}, {
+  "key": "Rumble",
+  "lastUpdated": 1474725385693,
+  "name": "Rumble",
+  "roles": [{
+    "name": "Top",
+    "percentPlayed": 74.08,
+    "games": 7826
+  }, {
+    "name": "Jungle",
+    "percentPlayed": 21.07,
+    "games": 2226
+  }]
+}, {
+  "key": "Nidalee",
+  "lastUpdated": 1474725385693,
+  "name": "Nidalee",
+  "roles": [{
+    "name": "Jungle",
+    "percentPlayed": 94.29,
+    "games": 16880
+  }]
+}, {
+  "key": "Ezreal",
+  "lastUpdated": 1474725385693,
+  "name": "Ezreal",
+  "roles": [{
+    "name": "ADC",
+    "percentPlayed": 87.67,
+    "games": 51669
+  }]
+}, {
+  "key": "Garen",
+  "lastUpdated": 1474725385693,
+  "name": "Garen",
+  "roles": [{
+    "name": "Top",
+    "percentPlayed": 96.87,
+    "games": 8130
+  }]
+}, {
+  "key": "KogMaw",
+  "lastUpdated": 1474725385692,
+  "name": "Kog'Maw",
+  "roles": [{
+    "name": "ADC",
+    "percentPlayed": 78.8,
+    "games": 6157
+  }]
+}, {
+  "key": "Ahri",
+  "lastUpdated": 1474725385692,
+  "name": "Ahri",
+  "roles": [{
+    "name": "Middle",
+    "percentPlayed": 97.22,
+    "games": 29298
+  }]
+}, {
+  "key": "Varus",
+  "lastUpdated": 1474725385693,
+  "name": "Varus",
+  "roles": [{
+    "name": "ADC",
+    "percentPlayed": 55.02,
+    "games": 3976
+  }, {
+    "name": "Middle",
+    "percentPlayed": 40.9,
+    "games": 2956
+  }]
+}, {
+  "key": "Ziggs",
+  "lastUpdated": 1474725385692,
+  "name": "Ziggs",
+  "roles": [{
+    "name": "Middle",
+    "percentPlayed": 95.27,
+    "games": 5409
+  }]
+}, {
+  "key": "Darius",
+  "lastUpdated": 1474725385693,
+  "name": "Darius",
+  "roles": [{
+    "name": "Top",
+    "percentPlayed": 98.35,
+    "games": 20420
+  }]
+}, {
+  "key": "Yasuo",
+  "lastUpdated": 1474725385693,
+  "name": "Yasuo",
+  "roles": [{
+    "name": "Top",
+    "percentPlayed": 51.28,
+    "games": 14314
+  }, {
+    "name": "Middle",
+    "percentPlayed": 45.9,
+    "games": 12813
+  }]
+}, {
+  "key": "Kindred",
+  "lastUpdated": 1474725385692,
+  "name": "Kindred",
+  "roles": [{
+    "name": "Jungle",
+    "percentPlayed": 96.49,
+    "games": 5968
+  }]
+}, {
+  "key": "Azir",
+  "lastUpdated": 1474725385693,
+  "name": "Azir",
+  "roles": [{
+    "name": "Middle",
+    "percentPlayed": 95.87,
+    "games": 4071
+  }]
+}, {
+  "key": "Bard",
+  "lastUpdated": 1474725385693,
+  "name": "Bard",
+  "roles": [{
+    "name": "Support",
+    "percentPlayed": 97.65,
+    "games": 24621
+  }]
+}, {
+  "key": "Galio",
+  "lastUpdated": 1474725385692,
+  "name": "Galio",
+  "roles": [{
+    "name": "Middle",
+    "percentPlayed": 65.61,
+    "games": 1809
+  }, {
+    "name": "Top",
+    "percentPlayed": 20.96,
+    "games": 578
+  }]
+}, {
+  "key": "Ryze",
+  "lastUpdated": 1474725385692,
+  "name": "Ryze",
+  "roles": [{
+    "name": "Middle",
+    "percentPlayed": 60.37,
+    "games": 6469
+  }, {
+    "name": "Top",
+    "percentPlayed": 34.13,
+    "games": 3657
+  }]
+}, {
+  "key": "Tristana",
+  "lastUpdated": 1474725385693,
+  "name": "Tristana",
+  "roles": [{
+    "name": "ADC",
+    "percentPlayed": 94.02,
+    "games": 19756
+  }]
+}, {
+  "key": "Tryndamere",
+  "lastUpdated": 1474725385692,
+  "name": "Tryndamere",
+  "roles": [{
+    "name": "Top",
+    "percentPlayed": 88.5,
+    "games": 10523
+  }]
+}, {
+  "key": "Evelynn",
+  "lastUpdated": 1474725385693,
+  "name": "Evelynn",
+  "roles": [{
+    "name": "Jungle",
+    "percentPlayed": 97.45,
+    "games": 14232
+  }]
+}, {
+  "key": "Rammus",
+  "lastUpdated": 1474725385693,
+  "name": "Rammus",
+  "roles": [{
+    "name": "Jungle",
+    "percentPlayed": 84.54,
+    "games": 4857
+  }, {
+    "name": "Top",
+    "percentPlayed": 12.74,
+    "games": 732
+  }]
+}, {
+  "key": "Kassadin",
+  "lastUpdated": 1474725385693,
+  "name": "Kassadin",
+  "roles": [{
+    "name": "Middle",
+    "percentPlayed": 92.82,
+    "games": 8854
+  }]
+}, {
+  "key": "Karma",
+  "lastUpdated": 1474725385692,
+  "name": "Karma",
+  "roles": [{
+    "name": "Support",
+    "percentPlayed": 69.13,
+    "games": 16128
+  }, {
+    "name": "Middle",
+    "percentPlayed": 25.2,
+    "games": 5879
+  }]
+}, {
+  "key": "Caitlyn",
+  "lastUpdated": 1474725385693,
+  "name": "Caitlyn",
+  "roles": [{
+    "name": "ADC",
+    "percentPlayed": 95.88,
+    "games": 40843
+  }]
+}, {
+  "key": "Maokai",
+  "lastUpdated": 1474725385692,
+  "name": "Maokai",
+  "roles": [{
+    "name": "Top",
+    "percentPlayed": 70.29,
+    "games": 4414
+  }, {
+    "name": "Jungle",
+    "percentPlayed": 23.93,
+    "games": 1503
+  }]
+}, {
+  "key": "MonkeyKing",
+  "lastUpdated": 1474725385692,
+  "name": "Wukong",
+  "roles": [{
+    "name": "Top",
+    "percentPlayed": 52.54,
+    "games": 8069
+  }, {
+    "name": "Jungle",
+    "percentPlayed": 42.09,
+    "games": 6465
+  }]
+}, {
+  "key": "Cassiopeia",
+  "lastUpdated": 1474725385693,
+  "name": "Cassiopeia",
+  "roles": [{
+    "name": "Middle",
+    "percentPlayed": 85.89,
+    "games": 7961
+  }, {
+    "name": "Top",
+    "percentPlayed": 12.27,
+    "games": 1138
+  }]
+}, {
+  "key": "Udyr",
+  "lastUpdated": 1474725385692,
+  "name": "Udyr",
+  "roles": [{
+    "name": "Jungle",
+    "percentPlayed": 92.18,
+    "games": 8975
+  }]
+}, {
+  "key": "Mordekaiser",
+  "lastUpdated": 1474725385692,
+  "name": "Mordekaiser",
+  "roles": [{
+    "name": "Top",
+    "percentPlayed": 61.52,
+    "games": 1909
+  }, {
+    "name": "Jungle",
+    "percentPlayed": 16.37,
+    "games": 508
+  }, {
+    "name": "Middle",
+    "percentPlayed": 16.11,
+    "games": 500
+  }]
+}, {
+  "key": "Leona",
+  "lastUpdated": 1474725385692,
+  "name": "Leona",
+  "roles": [{
+    "name": "Support",
+    "percentPlayed": 91.47,
+    "games": 23502
+  }]
+}, {
+  "key": "Shen",
+  "lastUpdated": 1474725385692,
+  "name": "Shen",
+  "roles": [{
+    "name": "Top",
+    "percentPlayed": 83.09,
+    "games": 8830
+  }]
+}, {
+  "key": "Graves",
+  "lastUpdated": 1474725385693,
+  "name": "Graves",
+  "roles": [{
+    "name": "Jungle",
+    "percentPlayed": 81.4,
+    "games": 22921
+  }, {
+    "name": "Top",
+    "percentPlayed": 13.28,
+    "games": 3741
+  }]
+}, {
+  "key": "Nautilus",
+  "lastUpdated": 1474725385693,
+  "name": "Nautilus",
+  "roles": [{
+    "name": "Support",
+    "percentPlayed": 53.4,
+    "games": 7295
+  }, {
+    "name": "Top",
+    "percentPlayed": 23.03,
+    "games": 3146
+  }, {
+    "name": "Jungle",
+    "percentPlayed": 15.91,
+    "games": 2174
+  }]
+}, {
+  "key": "Lulu",
+  "lastUpdated": 1474725385693,
+  "name": "Lulu",
+  "roles": [{
+    "name": "Support",
+    "percentPlayed": 84.65,
+    "games": 12242
+  }]
+}, {
+  "key": "Jayce",
+  "lastUpdated": 1474725385692,
+  "name": "Jayce",
+  "roles": [{
+    "name": "Top",
+    "percentPlayed": 68.05,
+    "games": 10796
+  }, {
+    "name": "Middle",
+    "percentPlayed": 29.75,
+    "games": 4720
+  }]
+}, {
+  "key": "AurelionSol",
+  "lastUpdated": 1474725385692,
+  "name": "Aurelion Sol",
+  "roles": [{
+    "name": "Middle",
+    "percentPlayed": 80.24,
+    "games": 3322
+  }, {
+    "name": "Jungle",
+    "percentPlayed": 14.2,
+    "games": 588
+  }]
+}, {
+  "key": "Velkoz",
+  "lastUpdated": 1474725385693,
+  "name": "Vel'Koz",
+  "roles": [{
+    "name": "Middle",
+    "percentPlayed": 64.76,
+    "games": 10723
+  }, {
+    "name": "Support",
+    "percentPlayed": 30.59,
+    "games": 5066
+  }]
+}, {
+  "key": "Jinx",
+  "lastUpdated": 1474725385693,
+  "name": "Jinx",
+  "roles": [{
+    "name": "ADC",
+    "percentPlayed": 95.26,
+    "games": 48007
+  }]
+}, {
+  "key": "Ekko",
+  "lastUpdated": 1474725385693,
+  "name": "Ekko",
+  "roles": [{
+    "name": "Top",
+    "percentPlayed": 46.01,
+    "games": 11083
+  }, {
+    "name": "Middle",
+    "percentPlayed": 37.96,
+    "games": 9143
+  }, {
+    "name": "Jungle",
+    "percentPlayed": 15.68,
+    "games": 3778
+  }]
+}, {
+  "key": "Thresh",
+  "lastUpdated": 1474725385693,
+  "name": "Thresh",
+  "roles": [{
+    "name": "Support",
+    "percentPlayed": 95.11,
+    "games": 64672
+  }]
+}, {
+  "key": "XinZhao",
+  "lastUpdated": 1474725385692,
+  "name": "Xin Zhao",
+  "roles": [{
+    "name": "Jungle",
+    "percentPlayed": 78.55,
+    "games": 11091
+  }, {
+    "name": "Top",
+    "percentPlayed": 19.45,
+    "games": 2747
+  }]
+}, {
+  "key": "Kayle",
+  "lastUpdated": 1474725385693,
+  "name": "Kayle",
+  "roles": [{
+    "name": "Top",
+    "percentPlayed": 53.08,
+    "games": 7541
+  }, {
+    "name": "Middle",
+    "percentPlayed": 27.88,
+    "games": 3962
+  }, {
+    "name": "Jungle",
+    "percentPlayed": 15.79,
+    "games": 2244
+  }]
+}, {
+  "key": "Sivir",
+  "lastUpdated": 1474725385692,
+  "name": "Sivir",
+  "roles": [{
+    "name": "ADC",
+    "percentPlayed": 95.9,
+    "games": 14041
+  }]
+}, {
+  "key": "Nunu",
+  "lastUpdated": 1474725385692,
+  "name": "Nunu",
+  "roles": [{
+    "name": "Jungle",
+    "percentPlayed": 69.5,
+    "games": 1484
+  }, {
+    "name": "Support",
+    "percentPlayed": 14.37,
+    "games": 307
+  }]
+}, {
+  "key": "Morgana",
+  "lastUpdated": 1474725385693,
+  "name": "Morgana",
+  "roles": [{
+    "name": "Support",
+    "percentPlayed": 79.2,
+    "games": 27651
+  }, {
+    "name": "Middle",
+    "percentPlayed": 17.15,
+    "games": 5988
+  }]
+}, {
+  "key": "Karthus",
+  "lastUpdated": 1474725385692,
+  "name": "Karthus",
+  "roles": [{
+    "name": "Middle",
+    "percentPlayed": 78.56,
+    "games": 2455
+  }, {
+    "name": "Top",
+    "percentPlayed": 15.16,
+    "games": 474
+  }]
+}, {
+  "key": "Shaco",
+  "lastUpdated": 1474725385693,
+  "name": "Shaco",
+  "roles": [{
+    "name": "Jungle",
+    "percentPlayed": 90.91,
+    "games": 12548
+  }]
+}, {
+  "key": "Veigar",
+  "lastUpdated": 1474725385693,
+  "name": "Veigar",
+  "roles": [{
+    "name": "Middle",
+    "percentPlayed": 85.37,
+    "games": 12538
+  }]
+}, {
+  "key": "Malphite",
+  "lastUpdated": 1474725385692,
+  "name": "Malphite",
+  "roles": [{
+    "name": "Top",
+    "percentPlayed": 77.78,
+    "games": 16766
+  }]
+}, {
+  "key": "JarvanIV",
+  "lastUpdated": 1474725385693,
+  "name": "Jarvan IV",
+  "roles": [{
+    "name": "Jungle",
+    "percentPlayed": 59.04,
+    "games": 6922
+  }, {
+    "name": "Top",
+    "percentPlayed": 35.17,
+    "games": 4124
+  }]
+}, {
+  "key": "LeeSin",
+  "lastUpdated": 1474725385693,
+  "name": "Lee Sin",
+  "roles": [{
+    "name": "Jungle",
+    "percentPlayed": 94.52,
+    "games": 48039
+  }]
+}, {
+  "key": "Heimerdinger",
+  "lastUpdated": 1474725385692,
+  "name": "Heimerdinger",
+  "roles": [{
+    "name": "Top",
+    "percentPlayed": 50.95,
+    "games": 1756
+  }, {
+    "name": "Middle",
+    "percentPlayed": 44.05,
+    "games": 1518
+  }]
+}, {
+  "key": "Gragas",
+  "lastUpdated": 1474725385693,
+  "name": "Gragas",
+  "roles": [{
+    "name": "Jungle",
+    "percentPlayed": 89.21,
+    "games": 11606
+  }]
+}, {
+  "key": "Akali",
+  "lastUpdated": 1474725385692,
+  "name": "Akali",
+  "roles": [{
+    "name": "Middle",
+    "percentPlayed": 51.61,
+    "games": 4645
+  }, {
+    "name": "Top",
+    "percentPlayed": 40.94,
+    "games": 3685
+  }]
+}, {
+  "key": "Talon",
+  "lastUpdated": 1474725385692,
+  "name": "Talon",
+  "roles": [{
+    "name": "Middle",
+    "percentPlayed": 90.86,
+    "games": 4186
+  }]
+}, {
+  "key": "Xerath",
+  "lastUpdated": 1474725385693,
+  "name": "Xerath",
+  "roles": [{
+    "name": "Middle",
+    "percentPlayed": 93.12,
+    "games": 7272
+  }]
+}, {
+  "key": "Volibear",
+  "lastUpdated": 1474725385692,
+  "name": "Volibear",
+  "roles": [{
+    "name": "Jungle",
+    "percentPlayed": 73.35,
+    "games": 6532
+  }, {
+    "name": "Top",
+    "percentPlayed": 22.05,
+    "games": 1964
+  }]
+}, {
+  "key": "Sejuani",
+  "lastUpdated": 1474725385692,
+  "name": "Sejuani",
+  "roles": [{
+    "name": "Jungle",
+    "percentPlayed": 96.06,
+    "games": 10435
+  }]
+}, {
+  "key": "Hecarim",
+  "lastUpdated": 1474725385692,
+  "name": "Hecarim",
+  "roles": [{
+    "name": "Jungle",
+    "percentPlayed": 94.94,
+    "games": 15791
+  }]
+}, {
+  "key": "Gnar",
+  "lastUpdated": 1474725385692,
+  "name": "Gnar",
+  "roles": [{
+    "name": "Top",
+    "percentPlayed": 98.71,
+    "games": 16422
+  }]
+}, {
+  "key": "Diana",
+  "lastUpdated": 1474725385693,
+  "name": "Diana",
+  "roles": [{
+    "name": "Middle",
+    "percentPlayed": 55.1,
+    "games": 6667
+  }, {
+    "name": "Jungle",
+    "percentPlayed": 39.43,
+    "games": 4771
+  }]
+}, {
+  "key": "Braum",
+  "lastUpdated": 1474725385693,
+  "name": "Braum",
+  "roles": [{
+    "name": "Support",
+    "percentPlayed": 94.46,
+    "games": 29219
+  }]
+}, {
+  "key": "Lucian",
+  "lastUpdated": 1474725385693,
+  "name": "Lucian",
+  "roles": [{
+    "name": "ADC",
+    "percentPlayed": 94.91,
+    "games": 65041
+  }]
+}, {
+  "key": "Aatrox",
+  "lastUpdated": 1474725385692,
+  "name": "Aatrox",
+  "roles": [{
+    "name": "Top",
+    "percentPlayed": 66.35,
+    "games": 1412
+  }, {
+    "name": "Jungle",
+    "percentPlayed": 29.79,
+    "games": 634
+  }]
+}, {
+  "key": "RekSai",
+  "lastUpdated": 1474725385693,
+  "name": "Rek'Sai",
+  "roles": [{
+    "name": "Jungle",
+    "percentPlayed": 97.66,
+    "games": 7937
+  }]
+}, {
+  "key": "Annie",
+  "lastUpdated": 1474725385692,
+  "name": "Annie",
+  "roles": [{
+    "name": "Middle",
+    "percentPlayed": 80.37,
+    "games": 16177
+  }, {
+    "name": "Support",
+    "percentPlayed": 13.51,
+    "games": 2720
+  }]
+}, {
+  "key": "Urgot",
+  "lastUpdated": 1474725385692,
+  "name": "Urgot",
+  "roles": [{
+    "name": "Top",
+    "percentPlayed": 59.93,
+    "games": 685
+  }]
+}, {
+  "key": "MasterYi",
+  "lastUpdated": 1474725385692,
+  "name": "Master Yi",
+  "roles": [{
+    "name": "Jungle",
+    "percentPlayed": 91.19,
+    "games": 12065
+  }]
+}, {
+  "key": "Soraka",
+  "lastUpdated": 1474725385692,
+  "name": "Soraka",
+  "roles": [{
+    "name": "Support",
+    "percentPlayed": 98,
+    "games": 17846
+  }]
+}, {
+  "key": "MissFortune",
+  "lastUpdated": 1474725385693,
+  "name": "Miss Fortune",
+  "roles": [{
+    "name": "ADC",
+    "percentPlayed": 94.12,
+    "games": 20571
+  }]
+}, {
+  "key": "Zilean",
+  "lastUpdated": 1474725385693,
+  "name": "Zilean",
+  "roles": [{
+    "name": "Support",
+    "percentPlayed": 62.89,
+    "games": 6314
+  }, {
+    "name": "Middle",
+    "percentPlayed": 31.76,
+    "games": 3189
+  }]
+}, {
+  "key": "Chogath",
+  "lastUpdated": 1474725385692,
+  "name": "Cho'Gath",
+  "roles": [{
+    "name": "Top",
+    "percentPlayed": 55.49,
+    "games": 3883
+  }, {
+    "name": "Middle",
+    "percentPlayed": 30.22,
+    "games": 2115
+  }, {
+    "name": "Jungle",
+    "percentPlayed": 12.71,
+    "games": 890
+  }]
+}, {
+  "key": "DrMundo",
+  "lastUpdated": 1474725385693,
+  "name": "Dr. Mundo",
+  "roles": [{
+    "name": "Top",
+    "percentPlayed": 78.8,
+    "games": 6434
+  }, {
+    "name": "Jungle",
+    "percentPlayed": 18.49,
+    "games": 1510
+  }]
+}, {
+  "key": "Gangplank",
+  "lastUpdated": 1474725385693,
+  "name": "Gangplank",
+  "roles": [{
+    "name": "Top",
+    "percentPlayed": 75.39,
+    "games": 14634
+  }, {
+    "name": "Middle",
+    "percentPlayed": 23.67,
+    "games": 4595
+  }]
+}, {
+  "key": "Trundle",
+  "lastUpdated": 1474725385692,
+  "name": "Trundle",
+  "roles": [{
+    "name": "Top",
+    "percentPlayed": 58.31,
+    "games": 6557
+  }, {
+    "name": "Support",
+    "percentPlayed": 19.97,
+    "games": 2246
+  }, {
+    "name": "Jungle",
+    "percentPlayed": 18.86,
+    "games": 2121
+  }]
+}, {
+  "key": "Katarina",
+  "lastUpdated": 1474725385693,
+  "name": "Katarina",
+  "roles": [{
+    "name": "Middle",
+    "percentPlayed": 91.65,
+    "games": 14878
+  }]
+}, {
+  "key": "Elise",
+  "lastUpdated": 1474725385692,
+  "name": "Elise",
+  "roles": [{
+    "name": "Jungle",
+    "percentPlayed": 97.84,
+    "games": 16572
+  }]
+}, {
+  "key": "Khazix",
+  "lastUpdated": 1474725385693,
+  "name": "Kha'Zix",
+  "roles": [{
+    "name": "Jungle",
+    "percentPlayed": 94.94,
+    "games": 25532
+  }]
+}]

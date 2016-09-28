@@ -1,0 +1,1767 @@
+[{
+	"key": "Yasuo",
+	"role": "Top",
+	"overallPosition": {
+		"change": -4,
+		"position": 8
+	},
+	"items": {
+		"mostGames": {
+			"items": [{
+				"id": 3046,
+				"name": "Phantom Dancer"
+			}, {
+				"id": 3006,
+				"name": "Berserker's Greaves"
+			}, {
+				"id": 3031,
+				"name": "Infinity Edge"
+			}, {
+				"id": 3072,
+				"name": "The Bloodthirster"
+			}, {
+				"id": 3026,
+				"name": "Guardian Angel"
+			}, {
+				"id": 3139,
+				"name": "Mercurial Scimitar"
+			}],
+			"winPercent": 51.26,
+			"games": 668
+		},
+		"highestWinPercent": {
+			"items": [{
+				"id": 3046,
+				"name": "Phantom Dancer"
+			}, {
+				"id": 3006,
+				"name": "Berserker's Greaves"
+			}, {
+				"id": 3031,
+				"name": "Infinity Edge"
+			}, {
+				"id": 3072,
+				"name": "The Bloodthirster"
+			}, {
+				"id": 3026,
+				"name": "Guardian Angel"
+			}, {
+				"id": 3139,
+				"name": "Mercurial Scimitar"
+			}],
+			"winPercent": 51.26,
+			"games": 668
+		}
+	},
+	"firstItems": {
+		"mostGames": {
+			"items": [{
+				"id": 1055,
+				"name": "Doran's Blade"
+			}, {
+				"id": 2003,
+				"name": "Health Potion"
+			}],
+			"winPercent": 51.94,
+			"games": 12184
+		},
+		"highestWinPercent": {
+			"items": [{
+				"id": 1055,
+				"name": "Doran's Blade"
+			}, {
+				"id": 2003,
+				"name": "Health Potion"
+			}],
+			"winPercent": 51.94,
+			"games": 12184
+		}
+	},
+	"championMatrix": [123.3909200482121, 125.1771860625821, 139.67585089141002, 30.386740331491694, 33.52112676056338, 96.32662257922784, 84.95589524906718],
+	"trinkets": [{
+		"games": 13601,
+		"winPercent": 51.27,
+		"item": {
+			"id": 3340,
+			"name": "Warding Totem (Trinket)"
+		}
+	}, {
+		"games": 7,
+		"winPercent": 71.42,
+		"item": {
+			"id": 3341,
+			"name": "Sweeping Lens (Trinket)"
+		}
+	}],
+	"summoners": {
+		"mostGames": {
+			"summoner1": {
+				"name": "Flash"
+			},
+			"summoner2": {
+				"name": "Teleport"
+			},
+			"winPercent": 50.61,
+			"games": 10618
+		},
+		"highestWinPercent": {
+			"summoner1": {
+				"name": "Exhaust"
+			},
+			"summoner2": {
+				"name": "Flash"
+			},
+			"winPercent": 55.31,
+			"games": 1703
+		}
+	},
+	"runes": {
+		"mostGames": {
+			"runes": [{
+				"id": 5245,
+				"number": 9,
+				"name": "Greater Mark of Attack Damage",
+				"description": "+0.95 attack damage"
+			}, {
+				"id": 5289,
+				"number": 9,
+				"name": "Greater Glyph of Magic Resist",
+				"description": "+1.34 magic resist"
+			}, {
+				"id": 5317,
+				"number": 9,
+				"name": "Greater Seal of Armor",
+				"description": "+1 armor"
+			}, {
+				"id": 5337,
+				"number": 3,
+				"name": "Greater Quintessence of Attack Speed",
+				"description": "+4.5% attack speed"
+			}],
+			"winPercent": 50.81,
+			"games": 2076
+		},
+		"highestWinPercent": {
+			"runes": [{
+				"id": 5247,
+				"number": 9,
+				"name": "Greater Mark of Attack Speed",
+				"description": "+1.7% attack speed"
+			}, {
+				"id": 5289,
+				"number": 9,
+				"name": "Greater Glyph of Magic Resist",
+				"description": "+1.34 magic resist"
+			}, {
+				"id": 5316,
+				"number": 9,
+				"name": "Greater Seal of Scaling Health",
+				"description": "+1.33 health per level (+24 at champion level 18)"
+			}, {
+				"id": 5337,
+				"number": 3,
+				"name": "Greater Quintessence of Attack Speed",
+				"description": "+4.5% attack speed"
+			}],
+			"winPercent": 61.9,
+			"games": 189
+		}
+	},
+	"experienceRate": [48.05, 53.76, 52.15, 50.98, 54.97],
+	"experienceSample": [6.98, 10.9, 24.02, 19.94, 18.14],
+	"patchWin": [51.86, 51.53, 55.14, 51.73, 51.2],
+	"patchPlay": [10.88, 11.19, 11.34, 7.86, 6.53],
+	"dmgComposition": {
+		"trueDmg": 1.9,
+		"magicDmg": 14.4,
+		"physicalDmg": 83.7
+	},
+	"matchups": [{
+		"games": 18,
+		"statScore": 6.29,
+		"winRate": 55.55,
+		"winRateChange": 4.35,
+		"key": "Urgot"
+	}, {
+		"games": 60,
+		"statScore": 3.55,
+		"winRate": 46.66,
+		"winRateChange": -4.54,
+		"key": "Aatrox"
+	}, {
+		"games": 8,
+		"statScore": 7.55,
+		"winRate": 100,
+		"winRateChange": 48.8,
+		"key": "Galio"
+	}, {
+		"games": 72,
+		"statScore": 3.18,
+		"winRate": 44.44,
+		"winRateChange": -6.76,
+		"key": "Mordekaiser"
+	}, {
+		"games": 17,
+		"statScore": 5.12,
+		"winRate": 58.82,
+		"winRateChange": 7.62,
+		"key": "Karthus"
+	}, {
+		"games": 52,
+		"statScore": 7.28,
+		"winRate": 55.76,
+		"winRateChange": 4.56,
+		"key": "Heimerdinger"
+	}, {
+		"games": 149,
+		"statScore": 6.51,
+		"winRate": 53.02,
+		"winRateChange": 1.82,
+		"key": "Singed"
+	}, {
+		"games": 29,
+		"statScore": 1.79,
+		"winRate": 44.82,
+		"winRateChange": -6.38,
+		"key": "Rammus"
+	}, {
+		"games": 113,
+		"statScore": 3.71,
+		"winRate": 43.36,
+		"winRateChange": -7.84,
+		"key": "Maokai"
+	}, {
+		"games": 103,
+		"statScore": 3.59,
+		"winRate": 46.6,
+		"winRateChange": -4.6,
+		"key": "Quinn"
+	}, {
+		"games": 119,
+		"statScore": 7.35,
+		"winRate": 61.34,
+		"winRateChange": 10.14,
+		"key": "Chogath"
+	}, {
+		"games": 237,
+		"statScore": 5.61,
+		"winRate": 53.16,
+		"winRateChange": 1.96,
+		"key": "Kled"
+	}, {
+		"games": 110,
+		"statScore": 7.06,
+		"winRate": 62.72,
+		"winRateChange": 11.52,
+		"key": "Vladimir"
+	}, {
+		"games": 162,
+		"statScore": 6.73,
+		"winRate": 51.85,
+		"winRateChange": 0.65,
+		"key": "Sion"
+	}, {
+		"games": 255,
+		"statScore": 6.21,
+		"winRate": 53.33,
+		"winRateChange": 2.13,
+		"key": "Nasus"
+	}, {
+		"games": 190,
+		"statScore": 4.24,
+		"winRate": 48.42,
+		"winRateChange": -2.78,
+		"key": "DrMundo"
+	}, {
+		"games": 128,
+		"statScore": 6.96,
+		"winRate": 57.81,
+		"winRateChange": 6.61,
+		"key": "Swain"
+	}, {
+		"games": 277,
+		"statScore": 6.84,
+		"winRate": 57.03,
+		"winRateChange": 5.83,
+		"key": "Garen"
+	}, {
+		"games": 191,
+		"statScore": 2.25,
+		"winRate": 45.02,
+		"winRateChange": -6.18,
+		"key": "Poppy"
+	}, {
+		"games": 80,
+		"statScore": 6.64,
+		"winRate": 57.49,
+		"winRateChange": 6.29,
+		"key": "Volibear"
+	}, {
+		"games": 174,
+		"statScore": 2.53,
+		"winRate": 44.82,
+		"winRateChange": -6.38,
+		"key": "Akali"
+	}, {
+		"games": 46,
+		"statScore": 5.08,
+		"winRate": 50,
+		"winRateChange": -1.21,
+		"key": "Cassiopeia"
+	}, {
+		"games": 297,
+		"statScore": 7.09,
+		"winRate": 57.57,
+		"winRateChange": 6.37,
+		"key": "Yorick"
+	}, {
+		"games": 60,
+		"statScore": 4.39,
+		"winRate": 50,
+		"winRateChange": -1.21,
+		"key": "TahmKench"
+	}, {
+		"games": 344,
+		"statScore": 6.3,
+		"winRate": 52.32,
+		"winRateChange": 1.12,
+		"key": "Illaoi"
+	}, {
+		"games": 252,
+		"statScore": 2.75,
+		"winRate": 43.25,
+		"winRateChange": -7.95,
+		"key": "Rumble"
+	}, {
+		"games": 291,
+		"statScore": 4.81,
+		"winRate": 50.85,
+		"winRateChange": -0.35,
+		"key": "Shen"
+	}, {
+		"games": 98,
+		"statScore": 7.09,
+		"winRate": 67.34,
+		"winRateChange": 16.14,
+		"key": "Ryze"
+	}, {
+		"games": 196,
+		"statScore": 5.18,
+		"winRate": 51.02,
+		"winRateChange": -0.18,
+		"key": "Olaf"
+	}, {
+		"games": 231,
+		"statScore": 6.18,
+		"winRate": 52.81,
+		"winRateChange": 1.61,
+		"key": "Trundle"
+	}, {
+		"games": 126,
+		"statScore": 4.97,
+		"winRate": 52.38,
+		"winRateChange": 1.18,
+		"key": "JarvanIV"
+	}, {
+		"games": 391,
+		"statScore": 5.92,
+		"winRate": 52.68,
+		"winRateChange": 1.48,
+		"key": "Tryndamere"
+	}, {
+		"games": 284,
+		"statScore": 6.27,
+		"winRate": 52.11,
+		"winRateChange": 0.91,
+		"key": "Teemo"
+	}, {
+		"games": 94,
+		"statScore": 6.64,
+		"winRate": 60.63,
+		"winRateChange": 9.43,
+		"key": "Lissandra"
+	}, {
+		"games": 111,
+		"statScore": 6.32,
+		"winRate": 54.95,
+		"winRateChange": 3.75,
+		"key": "Nautilus"
+	}, {
+		"games": 316,
+		"statScore": 4.16,
+		"winRate": 49.36,
+		"winRateChange": -1.84,
+		"key": "Pantheon"
+	}, {
+		"games": 105,
+		"statScore": 6.46,
+		"winRate": 54.28,
+		"winRateChange": 3.08,
+		"key": "XinZhao"
+	}, {
+		"games": 237,
+		"statScore": 2.52,
+		"winRate": 44.72,
+		"winRateChange": -6.48,
+		"key": "Kayle"
+	}, {
+		"games": 294,
+		"statScore": 2.85,
+		"winRate": 46.93,
+		"winRateChange": -4.27,
+		"key": "MonkeyKing"
+	}, {
+		"games": 517,
+		"statScore": 2.15,
+		"winRate": 46.42,
+		"winRateChange": -4.78,
+		"key": "Renekton"
+	}, {
+		"games": 272,
+		"statScore": 4.05,
+		"winRate": 50,
+		"winRateChange": -1.21,
+		"key": "Kennen"
+	}, {
+		"games": 328,
+		"statScore": 5.67,
+		"winRate": 54.26,
+		"winRateChange": 3.06,
+		"key": "Jayce"
+	}, {
+		"games": 86,
+		"statScore": 3.07,
+		"winRate": 47.67,
+		"winRateChange": -3.53,
+		"key": "Rengar"
+	}, {
+		"games": 557,
+		"statScore": 6.07,
+		"winRate": 55.11,
+		"winRateChange": 3.91,
+		"key": "Fiora"
+	}, {
+		"games": 480,
+		"statScore": 7.16,
+		"winRate": 56.66,
+		"winRateChange": 5.46,
+		"key": "Gnar"
+	}, {
+		"games": 464,
+		"statScore": 3.48,
+		"winRate": 46.98,
+		"winRateChange": -4.22,
+		"key": "Gangplank"
+	}, {
+		"games": 645,
+		"statScore": 2.84,
+		"winRate": 48.83,
+		"winRateChange": -2.37,
+		"key": "Darius"
+	}, {
+		"games": 643,
+		"statScore": 2.78,
+		"winRate": 46.96,
+		"winRateChange": -4.24,
+		"key": "Irelia"
+	}, {
+		"games": 554,
+		"statScore": 6.47,
+		"winRate": 53.42,
+		"winRateChange": 2.22,
+		"key": "Jax"
+	}, {
+		"games": 601,
+		"statScore": 3.93,
+		"winRate": 46.08,
+		"winRateChange": -5.12,
+		"key": "Malphite"
+	}, {
+		"games": 388,
+		"statScore": 6.61,
+		"winRate": 56.7,
+		"winRateChange": 5.5,
+		"key": "Ekko"
+	}, {
+		"games": 121,
+		"statScore": 7.63,
+		"winRate": 61.98,
+		"winRateChange": 10.78,
+		"key": "Graves"
+	}, {
+		"games": 1405,
+		"statScore": 2.68,
+		"winRate": 46.61,
+		"winRateChange": -4.59,
+		"key": "Riven"
+	}],
+	"general": {
+		"winPercent": {
+			"change": -1,
+			"position": 15
+		},
+		"playPercent": {
+			"change": -3,
+			"position": 9
+		},
+		"banRate": {
+			"change": 0,
+			"position": 1
+		},
+		"experience": {
+			"change": 0,
+			"position": 11
+		},
+		"goldEarned": {
+			"change": -2,
+			"position": 8
+		},
+		"kills": {
+			"change": 0,
+			"position": 16
+		},
+		"deaths": {
+			"change": 1,
+			"position": 53
+		},
+		"assists": {
+			"change": 0,
+			"position": 46
+		},
+		"totalDamageDealtToChampions": {
+			"change": -2,
+			"position": 31
+		},
+		"totalDamageTaken": {
+			"change": -1,
+			"position": 37
+		},
+		"minionsKilled": {
+			"change": 0,
+			"position": 6
+		}
+	},
+	"skills": {
+		"skillInfo": [{
+			"name": "Steel Tempest",
+			"key": "Q"
+		}, {
+			"name": "Wind Wall",
+			"key": "W"
+		}, {
+			"name": "Sweeping Blade",
+			"key": "E"
+		}, {
+			"name": "Last Breath",
+			"key": "R"
+		}],
+		"mostGames": {
+			"order": ["Q", "E", "W", "E", "E", "R", "E", "Q", "E", "Q", "R", "Q", "Q", "W", "W", "R", "W", "W"],
+			"winPercent": 54.36,
+			"games": 3876
+		},
+		"highestWinPercent": {
+			"order": ["Q", "E", "W", "E", "E", "R", "E", "Q", "E", "Q", "R", "Q", "Q", "W", "W", "R", "W", "W"],
+			"winPercent": 54.36,
+			"games": 3876
+		}
+	},
+	"masteries": {
+		"mostGames": {
+			"winPercent": 55.67,
+			"games": 767,
+			"masteries": [{
+				"tree": "Ferocity",
+				"total": 18,
+				"data": [{
+					"points": 0,
+					"mastery": 6161
+				}, {
+					"points": 1,
+					"mastery": 6162
+				}, {
+					"points": 0,
+					"mastery": 6164
+				}, {
+					"points": 5,
+					"mastery": 6151
+				}, {
+					"points": 0,
+					"mastery": null
+				}, {
+					"points": 0,
+					"mastery": 6154
+				}, {
+					"points": 1,
+					"mastery": 6141
+				}, {
+					"points": 0,
+					"mastery": 6142
+				}, {
+					"points": 5,
+					"mastery": 6131
+				}, {
+					"points": 0,
+					"mastery": null
+				}, {
+					"points": 0,
+					"mastery": 6134
+				}, {
+					"points": 1,
+					"mastery": 6121
+				}, {
+					"points": 0,
+					"mastery": 6122
+				}, {
+					"points": 0,
+					"mastery": 6123
+				}, {
+					"points": 5,
+					"mastery": 6111
+				}, {
+					"points": 0,
+					"mastery": null
+				}, {
+					"points": 0,
+					"mastery": 6114
+				}]
+			}, {
+				"tree": "Cunning",
+				"total": 12,
+				"data": [{
+					"points": 0,
+					"mastery": 6361
+				}, {
+					"points": 0,
+					"mastery": 6362
+				}, {
+					"points": 0,
+					"mastery": 6363
+				}, {
+					"points": 0,
+					"mastery": 6351
+				}, {
+					"points": 0,
+					"mastery": null
+				}, {
+					"points": 0,
+					"mastery": 6352
+				}, {
+					"points": 0,
+					"mastery": 6342
+				}, {
+					"points": 1,
+					"mastery": 6343
+				}, {
+					"points": 5,
+					"mastery": 6331
+				}, {
+					"points": 0,
+					"mastery": null
+				}, {
+					"points": 0,
+					"mastery": 6332
+				}, {
+					"points": 0,
+					"mastery": 6321
+				}, {
+					"points": 0,
+					"mastery": 6322
+				}, {
+					"points": 1,
+					"mastery": 6323
+				}, {
+					"points": 0,
+					"mastery": 6311
+				}, {
+					"points": 0,
+					"mastery": null
+				}, {
+					"points": 5,
+					"mastery": 6312
+				}]
+			}, {
+				"tree": "Resolve",
+				"total": 0,
+				"data": [{
+					"points": 0,
+					"mastery": 6261
+				}, {
+					"points": 0,
+					"mastery": 6262
+				}, {
+					"points": 0,
+					"mastery": 6263
+				}, {
+					"points": 0,
+					"mastery": 6251
+				}, {
+					"points": 0,
+					"mastery": null
+				}, {
+					"points": 0,
+					"mastery": 6252
+				}, {
+					"points": 0,
+					"mastery": 6241
+				}, {
+					"points": 0,
+					"mastery": 6242
+				}, {
+					"points": 0,
+					"mastery": 6231
+				}, {
+					"points": 0,
+					"mastery": null
+				}, {
+					"points": 0,
+					"mastery": 6232
+				}, {
+					"points": 0,
+					"mastery": 6221
+				}, {
+					"points": 0,
+					"mastery": 6223
+				}, {
+					"points": 0,
+					"mastery": 6211
+				}, {
+					"points": 0,
+					"mastery": null
+				}, {
+					"points": 0,
+					"mastery": 6212
+				}]
+			}]
+		},
+		"highestWinPercent": {
+			"winPercent": 59.68,
+			"games": 191,
+			"masteries": [{
+				"tree": "Ferocity",
+				"total": 18,
+				"data": [{
+					"points": 0,
+					"mastery": 6161
+				}, {
+					"points": 1,
+					"mastery": 6162
+				}, {
+					"points": 0,
+					"mastery": 6164
+				}, {
+					"points": 5,
+					"mastery": 6151
+				}, {
+					"points": 0,
+					"mastery": null
+				}, {
+					"points": 0,
+					"mastery": 6154
+				}, {
+					"points": 0,
+					"mastery": 6141
+				}, {
+					"points": 1,
+					"mastery": 6142
+				}, {
+					"points": 5,
+					"mastery": 6131
+				}, {
+					"points": 0,
+					"mastery": null
+				}, {
+					"points": 0,
+					"mastery": 6134
+				}, {
+					"points": 1,
+					"mastery": 6121
+				}, {
+					"points": 0,
+					"mastery": 6122
+				}, {
+					"points": 0,
+					"mastery": 6123
+				}, {
+					"points": 5,
+					"mastery": 6111
+				}, {
+					"points": 0,
+					"mastery": null
+				}, {
+					"points": 0,
+					"mastery": 6114
+				}]
+			}, {
+				"tree": "Cunning",
+				"total": 12,
+				"data": [{
+					"points": 0,
+					"mastery": 6361
+				}, {
+					"points": 0,
+					"mastery": 6362
+				}, {
+					"points": 0,
+					"mastery": 6363
+				}, {
+					"points": 0,
+					"mastery": 6351
+				}, {
+					"points": 0,
+					"mastery": null
+				}, {
+					"points": 0,
+					"mastery": 6352
+				}, {
+					"points": 0,
+					"mastery": 6342
+				}, {
+					"points": 1,
+					"mastery": 6343
+				}, {
+					"points": 5,
+					"mastery": 6331
+				}, {
+					"points": 0,
+					"mastery": null
+				}, {
+					"points": 0,
+					"mastery": 6332
+				}, {
+					"points": 0,
+					"mastery": 6321
+				}, {
+					"points": 0,
+					"mastery": 6322
+				}, {
+					"points": 1,
+					"mastery": 6323
+				}, {
+					"points": 5,
+					"mastery": 6311
+				}, {
+					"points": 0,
+					"mastery": null
+				}, {
+					"points": 0,
+					"mastery": 6312
+				}]
+			}, {
+				"tree": "Resolve",
+				"total": 0,
+				"data": [{
+					"points": 0,
+					"mastery": 6261
+				}, {
+					"points": 0,
+					"mastery": 6262
+				}, {
+					"points": 0,
+					"mastery": 6263
+				}, {
+					"points": 0,
+					"mastery": 6251
+				}, {
+					"points": 0,
+					"mastery": null
+				}, {
+					"points": 0,
+					"mastery": 6252
+				}, {
+					"points": 0,
+					"mastery": 6241
+				}, {
+					"points": 0,
+					"mastery": 6242
+				}, {
+					"points": 0,
+					"mastery": 6231
+				}, {
+					"points": 0,
+					"mastery": null
+				}, {
+					"points": 0,
+					"mastery": 6232
+				}, {
+					"points": 0,
+					"mastery": 6221
+				}, {
+					"points": 0,
+					"mastery": 6223
+				}, {
+					"points": 0,
+					"mastery": 6211
+				}, {
+					"points": 0,
+					"mastery": null
+				}, {
+					"points": 0,
+					"mastery": 6212
+				}]
+			}]
+		}
+	}
+}, {
+	"key": "Yasuo",
+	"role": "Middle",
+	"overallPosition": {
+		"change": 0,
+		"position": 20
+	},
+	"items": {
+		"mostGames": {
+			"items": [{
+				"id": 3046,
+				"name": "Phantom Dancer"
+			}, {
+				"id": 3006,
+				"name": "Berserker's Greaves"
+			}, {
+				"id": 3031,
+				"name": "Infinity Edge"
+			}, {
+				"id": 3072,
+				"name": "The Bloodthirster"
+			}, {
+				"id": 3026,
+				"name": "Guardian Angel"
+			}, {
+				"id": 3022,
+				"name": "Frozen Mallet"
+			}],
+			"winPercent": 48.77,
+			"games": 748
+		},
+		"highestWinPercent": {
+			"items": [{
+				"id": 3087,
+				"name": "Statikk Shiv"
+			}, {
+				"id": 3006,
+				"name": "Berserker's Greaves"
+			}, {
+				"id": 3031,
+				"name": "Infinity Edge"
+			}, {
+				"id": 3072,
+				"name": "The Bloodthirster"
+			}, {
+				"id": 3026,
+				"name": "Guardian Angel"
+			}, {
+				"id": 3142,
+				"name": "Youmuu's Ghostblade"
+			}],
+			"winPercent": 50.76,
+			"games": 708
+		}
+	},
+	"firstItems": {
+		"mostGames": {
+			"items": [{
+				"id": 1055,
+				"name": "Doran's Blade"
+			}, {
+				"id": 2003,
+				"name": "Health Potion"
+			}],
+			"winPercent": 50.22,
+			"games": 10625
+		},
+		"highestWinPercent": {
+			"items": [{
+				"id": 1055,
+				"name": "Doran's Blade"
+			}, {
+				"id": 2003,
+				"name": "Health Potion"
+			}],
+			"winPercent": 50.22,
+			"games": 10625
+		}
+	},
+	"championMatrix": [99.50642054574641, 121.86362822836693, 123.5422343324251, 33.316645807259064, 8.012618296529979, 85.3795262802092, 112.84283207878205],
+	"trinkets": [{
+		"games": 12291,
+		"winPercent": 49.9,
+		"item": {
+			"id": 3340,
+			"name": "Warding Totem (Trinket)"
+		}
+	}, {
+		"games": 8,
+		"winPercent": 87.5,
+		"item": {
+			"id": 3341,
+			"name": "Sweeping Lens (Trinket)"
+		}
+	}],
+	"summoners": {
+		"mostGames": {
+			"summoner1": {
+				"name": "Flash"
+			},
+			"summoner2": {
+				"name": "Ignite"
+			},
+			"winPercent": 49.49,
+			"games": 8639
+		},
+		"highestWinPercent": {
+			"summoner1": {
+				"name": "Exhaust"
+			},
+			"summoner2": {
+				"name": "Flash"
+			},
+			"winPercent": 51.09,
+			"games": 3204
+		}
+	},
+	"runes": {
+		"mostGames": {
+			"runes": [{
+				"id": 5245,
+				"number": 9,
+				"name": "Greater Mark of Attack Damage",
+				"description": "+0.95 attack damage"
+			}, {
+				"id": 5289,
+				"number": 9,
+				"name": "Greater Glyph of Magic Resist",
+				"description": "+1.34 magic resist"
+			}, {
+				"id": 5317,
+				"number": 9,
+				"name": "Greater Seal of Armor",
+				"description": "+1 armor"
+			}, {
+				"id": 5337,
+				"number": 3,
+				"name": "Greater Quintessence of Attack Speed",
+				"description": "+4.5% attack speed"
+			}],
+			"winPercent": 49.42,
+			"games": 1831
+		},
+		"highestWinPercent": {
+			"runes": [{
+				"id": 5247,
+				"number": 9,
+				"name": "Greater Mark of Attack Speed",
+				"description": "+1.7% attack speed"
+			}, {
+				"id": 5289,
+				"number": 9,
+				"name": "Greater Glyph of Magic Resist",
+				"description": "+1.34 magic resist"
+			}, {
+				"id": 5317,
+				"number": 9,
+				"name": "Greater Seal of Armor",
+				"description": "+1 armor"
+			}, {
+				"id": 5335,
+				"number": 3,
+				"name": "Greater Quintessence of Attack Damage",
+				"description": "+2.25 attack damage"
+			}],
+			"winPercent": 58.75,
+			"games": 177
+		}
+	},
+	"experienceRate": [43.05, 45.81, 54.09, 46.84, 55.47],
+	"experienceSample": [6.48, 10.7, 25.49, 18.49, 20.03],
+	"patchWin": [49.81, 49.35, 52.95, 50.02, 49.81],
+	"patchPlay": [10.16, 9.67, 8.38, 6.68, 5.84],
+	"dmgComposition": {
+		"trueDmg": 3.8,
+		"magicDmg": 16.5,
+		"physicalDmg": 79.8
+	},
+	"matchups": [{
+		"games": 31,
+		"statScore": 9.37,
+		"winRate": 58.06,
+		"winRateChange": 8.25,
+		"key": "Galio"
+	}, {
+		"games": 37,
+		"statScore": 1.83,
+		"winRate": 45.94,
+		"winRateChange": -3.87,
+		"key": "Mordekaiser"
+	}, {
+		"games": 82,
+		"statScore": 3.16,
+		"winRate": 42.68,
+		"winRateChange": -7.13,
+		"key": "Karthus"
+	}, {
+		"games": 91,
+		"statScore": 8.19,
+		"winRate": 56.04,
+		"winRateChange": 6.23,
+		"key": "Taliyah"
+	}, {
+		"games": 66,
+		"statScore": 6.6,
+		"winRate": 51.51,
+		"winRateChange": 1.7,
+		"key": "Heimerdinger"
+	}, {
+		"games": 88,
+		"statScore": 3.52,
+		"winRate": 42.04,
+		"winRateChange": -7.77,
+		"key": "AurelionSol"
+	}, {
+		"games": 124,
+		"statScore": 6.84,
+		"winRate": 58.06,
+		"winRateChange": 8.25,
+		"key": "Azir"
+	}, {
+		"games": 165,
+		"statScore": 4.51,
+		"winRate": 49.09,
+		"winRateChange": -0.72,
+		"key": "Talon"
+	}, {
+		"games": 132,
+		"statScore": 7.42,
+		"winRate": 53.78,
+		"winRateChange": 3.97,
+		"key": "Ziggs"
+	}, {
+		"games": 71,
+		"statScore": 2.34,
+		"winRate": 43.66,
+		"winRateChange": -6.15,
+		"key": "Chogath"
+	}, {
+		"games": 70,
+		"statScore": 7.56,
+		"winRate": 61.42,
+		"winRateChange": 11.61,
+		"key": "Varus"
+	}, {
+		"games": 111,
+		"statScore": 6.77,
+		"winRate": 56.75,
+		"winRateChange": 6.94,
+		"key": "Vladimir"
+	}, {
+		"games": 195,
+		"statScore": 7.69,
+		"winRate": 55.89,
+		"winRateChange": 6.08,
+		"key": "Xerath"
+	}, {
+		"games": 156,
+		"statScore": 3.56,
+		"winRate": 44.23,
+		"winRateChange": -5.58,
+		"key": "Swain"
+	}, {
+		"games": 245,
+		"statScore": 2.9,
+		"winRate": 46.93,
+		"winRateChange": -2.88,
+		"key": "Akali"
+	}, {
+		"games": 188,
+		"statScore": 4.34,
+		"winRate": 48.4,
+		"winRateChange": -1.41,
+		"key": "Cassiopeia"
+	}, {
+		"games": 220,
+		"statScore": 4.73,
+		"winRate": 50.45,
+		"winRateChange": 0.64,
+		"key": "Kassadin"
+	}, {
+		"games": 251,
+		"statScore": 6.25,
+		"winRate": 54.18,
+		"winRateChange": 4.37,
+		"key": "Anivia"
+	}, {
+		"games": 102,
+		"statScore": 2.71,
+		"winRate": 40.19,
+		"winRateChange": -9.62,
+		"key": "Corki"
+	}, {
+		"games": 68,
+		"statScore": 8.19,
+		"winRate": 54.41,
+		"winRateChange": 4.6,
+		"key": "Zilean"
+	}, {
+		"games": 177,
+		"statScore": 5.68,
+		"winRate": 54.23,
+		"winRateChange": 4.42,
+		"key": "Ryze"
+	}, {
+		"games": 341,
+		"statScore": 2.59,
+		"winRate": 46.04,
+		"winRateChange": -3.77,
+		"key": "Malzahar"
+	}, {
+		"games": 234,
+		"statScore": 6.28,
+		"winRate": 52.99,
+		"winRateChange": 3.18,
+		"key": "Diana"
+	}, {
+		"games": 42,
+		"statScore": 7.04,
+		"winRate": 54.76,
+		"winRateChange": 4.95,
+		"key": "Zyra"
+	}, {
+		"games": 280,
+		"statScore": 4.1,
+		"winRate": 48.21,
+		"winRateChange": -1.6,
+		"key": "Lissandra"
+	}, {
+		"games": 169,
+		"statScore": 2.15,
+		"winRate": 41.42,
+		"winRateChange": -8.39,
+		"key": "Kayle"
+	}, {
+		"games": 390,
+		"statScore": 2.49,
+		"winRate": 46.66,
+		"winRateChange": -3.15,
+		"key": "Viktor"
+	}, {
+		"games": 329,
+		"statScore": 2.59,
+		"winRate": 45.28,
+		"winRateChange": -4.53,
+		"key": "Veigar"
+	}, {
+		"games": 165,
+		"statScore": 1.36,
+		"winRate": 38.18,
+		"winRateChange": -11.63,
+		"key": "Kennen"
+	}, {
+		"games": 142,
+		"statScore": 1.93,
+		"winRate": 45.07,
+		"winRateChange": -4.74,
+		"key": "Jayce"
+	}, {
+		"games": 375,
+		"statScore": 8.04,
+		"winRate": 51.73,
+		"winRateChange": 1.92,
+		"key": "TwistedFate"
+	}, {
+		"games": 530,
+		"statScore": 4.56,
+		"winRate": 49.43,
+		"winRateChange": -0.38,
+		"key": "Katarina"
+	}, {
+		"games": 426,
+		"statScore": 2.24,
+		"winRate": 46.47,
+		"winRateChange": -3.34,
+		"key": "Fizz"
+	}, {
+		"games": 268,
+		"statScore": 4.47,
+		"winRate": 48.13,
+		"winRateChange": -1.68,
+		"key": "Velkoz"
+	}, {
+		"games": 622,
+		"statScore": 5.79,
+		"winRate": 52.41,
+		"winRateChange": 2.6,
+		"key": "Zed"
+	}, {
+		"games": 315,
+		"statScore": 3.05,
+		"winRate": 45.39,
+		"winRateChange": -4.42,
+		"key": "Brand"
+	}, {
+		"games": 153,
+		"statScore": 5.81,
+		"winRate": 52.94,
+		"winRateChange": 3.13,
+		"key": "Gangplank"
+	}, {
+		"games": 564,
+		"statScore": 1.77,
+		"winRate": 42.02,
+		"winRateChange": -7.79,
+		"key": "Annie"
+	}, {
+		"games": 495,
+		"statScore": 4.11,
+		"winRate": 50.3,
+		"winRateChange": 0.49,
+		"key": "Syndra"
+	}, {
+		"games": 596,
+		"statScore": 5.1,
+		"winRate": 51.17,
+		"winRateChange": 1.36,
+		"key": "Orianna"
+	}, {
+		"games": 162,
+		"statScore": 6.29,
+		"winRate": 52.46,
+		"winRateChange": 2.65,
+		"key": "Karma"
+	}, {
+		"games": 649,
+		"statScore": 4.96,
+		"winRate": 53.92,
+		"winRateChange": 4.11,
+		"key": "Leblanc"
+	}, {
+		"games": 313,
+		"statScore": 6.11,
+		"winRate": 50.47,
+		"winRateChange": 0.66,
+		"key": "Ekko"
+	}, {
+		"games": 594,
+		"statScore": 6,
+		"winRate": 51.01,
+		"winRateChange": 1.2,
+		"key": "Lux"
+	}, {
+		"games": 786,
+		"statScore": 6.73,
+		"winRate": 52.92,
+		"winRateChange": 3.11,
+		"key": "Ahri"
+	}, {
+		"games": 134,
+		"statScore": 4.59,
+		"winRate": 47.01,
+		"winRateChange": -2.8,
+		"key": "Morgana"
+	}],
+	"general": {
+		"winPercent": {
+			"change": 2,
+			"position": 25
+		},
+		"playPercent": {
+			"change": -1,
+			"position": 11
+		},
+		"banRate": {
+			"change": 0,
+			"position": 1
+		},
+		"experience": {
+			"change": 0,
+			"position": 3
+		},
+		"goldEarned": {
+			"change": 1,
+			"position": 4
+		},
+		"kills": {
+			"change": 0,
+			"position": 16
+		},
+		"deaths": {
+			"change": 0,
+			"position": 47
+		},
+		"assists": {
+			"change": 0,
+			"position": 43
+		},
+		"totalDamageDealtToChampions": {
+			"change": 0,
+			"position": 44
+		},
+		"largestKillingSpree": {
+			"change": -1,
+			"position": 30
+		},
+		"minionsKilled": {
+			"change": 3,
+			"position": 4
+		}
+	},
+	"skills": {
+		"skillInfo": [{
+			"name": "Steel Tempest",
+			"key": "Q"
+		}, {
+			"name": "Wind Wall",
+			"key": "W"
+		}, {
+			"name": "Sweeping Blade",
+			"key": "E"
+		}, {
+			"name": "Last Breath",
+			"key": "R"
+		}],
+		"mostGames": {
+			"order": ["Q", "E", "W", "E", "E", "R", "E", "Q", "E", "Q", "R", "Q", "Q", "W", "W", "R", "W", "W"],
+			"winPercent": 52.06,
+			"games": 4110
+		},
+		"highestWinPercent": {
+			"order": ["E", "Q", "E", "W", "E", "R", "E", "Q", "E", "Q", "R", "Q", "Q", "W", "W", "R", "W", "W"],
+			"winPercent": 57.6,
+			"games": 368
+		}
+	},
+	"masteries": {
+		"mostGames": {
+			"winPercent": 53.1,
+			"games": 676,
+			"masteries": [{
+				"tree": "Ferocity",
+				"total": 18,
+				"data": [{
+					"points": 0,
+					"mastery": 6161
+				}, {
+					"points": 1,
+					"mastery": 6162
+				}, {
+					"points": 0,
+					"mastery": 6164
+				}, {
+					"points": 5,
+					"mastery": 6151
+				}, {
+					"points": 0,
+					"mastery": null
+				}, {
+					"points": 0,
+					"mastery": 6154
+				}, {
+					"points": 1,
+					"mastery": 6141
+				}, {
+					"points": 0,
+					"mastery": 6142
+				}, {
+					"points": 5,
+					"mastery": 6131
+				}, {
+					"points": 0,
+					"mastery": null
+				}, {
+					"points": 0,
+					"mastery": 6134
+				}, {
+					"points": 1,
+					"mastery": 6121
+				}, {
+					"points": 0,
+					"mastery": 6122
+				}, {
+					"points": 0,
+					"mastery": 6123
+				}, {
+					"points": 5,
+					"mastery": 6111
+				}, {
+					"points": 0,
+					"mastery": null
+				}, {
+					"points": 0,
+					"mastery": 6114
+				}]
+			}, {
+				"tree": "Cunning",
+				"total": 12,
+				"data": [{
+					"points": 0,
+					"mastery": 6361
+				}, {
+					"points": 0,
+					"mastery": 6362
+				}, {
+					"points": 0,
+					"mastery": 6363
+				}, {
+					"points": 0,
+					"mastery": 6351
+				}, {
+					"points": 0,
+					"mastery": null
+				}, {
+					"points": 0,
+					"mastery": 6352
+				}, {
+					"points": 0,
+					"mastery": 6342
+				}, {
+					"points": 1,
+					"mastery": 6343
+				}, {
+					"points": 5,
+					"mastery": 6331
+				}, {
+					"points": 0,
+					"mastery": null
+				}, {
+					"points": 0,
+					"mastery": 6332
+				}, {
+					"points": 0,
+					"mastery": 6321
+				}, {
+					"points": 0,
+					"mastery": 6322
+				}, {
+					"points": 1,
+					"mastery": 6323
+				}, {
+					"points": 0,
+					"mastery": 6311
+				}, {
+					"points": 0,
+					"mastery": null
+				}, {
+					"points": 5,
+					"mastery": 6312
+				}]
+			}, {
+				"tree": "Resolve",
+				"total": 0,
+				"data": [{
+					"points": 0,
+					"mastery": 6261
+				}, {
+					"points": 0,
+					"mastery": 6262
+				}, {
+					"points": 0,
+					"mastery": 6263
+				}, {
+					"points": 0,
+					"mastery": 6251
+				}, {
+					"points": 0,
+					"mastery": null
+				}, {
+					"points": 0,
+					"mastery": 6252
+				}, {
+					"points": 0,
+					"mastery": 6241
+				}, {
+					"points": 0,
+					"mastery": 6242
+				}, {
+					"points": 0,
+					"mastery": 6231
+				}, {
+					"points": 0,
+					"mastery": null
+				}, {
+					"points": 0,
+					"mastery": 6232
+				}, {
+					"points": 0,
+					"mastery": 6221
+				}, {
+					"points": 0,
+					"mastery": 6223
+				}, {
+					"points": 0,
+					"mastery": 6211
+				}, {
+					"points": 0,
+					"mastery": null
+				}, {
+					"points": 0,
+					"mastery": 6212
+				}]
+			}]
+		},
+		"highestWinPercent": {
+			"winPercent": 57.72,
+			"games": 246,
+			"masteries": [{
+				"tree": "Ferocity",
+				"total": 18,
+				"data": [{
+					"points": 0,
+					"mastery": 6161
+				}, {
+					"points": 1,
+					"mastery": 6162
+				}, {
+					"points": 0,
+					"mastery": 6164
+				}, {
+					"points": 5,
+					"mastery": 6151
+				}, {
+					"points": 0,
+					"mastery": null
+				}, {
+					"points": 0,
+					"mastery": 6154
+				}, {
+					"points": 1,
+					"mastery": 6141
+				}, {
+					"points": 0,
+					"mastery": 6142
+				}, {
+					"points": 5,
+					"mastery": 6131
+				}, {
+					"points": 0,
+					"mastery": null
+				}, {
+					"points": 0,
+					"mastery": 6134
+				}, {
+					"points": 1,
+					"mastery": 6121
+				}, {
+					"points": 0,
+					"mastery": 6122
+				}, {
+					"points": 0,
+					"mastery": 6123
+				}, {
+					"points": 5,
+					"mastery": 6111
+				}, {
+					"points": 0,
+					"mastery": null
+				}, {
+					"points": 0,
+					"mastery": 6114
+				}]
+			}, {
+				"tree": "Cunning",
+				"total": 12,
+				"data": [{
+					"points": 0,
+					"mastery": 6361
+				}, {
+					"points": 0,
+					"mastery": 6362
+				}, {
+					"points": 0,
+					"mastery": 6363
+				}, {
+					"points": 0,
+					"mastery": 6351
+				}, {
+					"points": 0,
+					"mastery": null
+				}, {
+					"points": 0,
+					"mastery": 6352
+				}, {
+					"points": 0,
+					"mastery": 6342
+				}, {
+					"points": 1,
+					"mastery": 6343
+				}, {
+					"points": 5,
+					"mastery": 6331
+				}, {
+					"points": 0,
+					"mastery": null
+				}, {
+					"points": 0,
+					"mastery": 6332
+				}, {
+					"points": 0,
+					"mastery": 6321
+				}, {
+					"points": 0,
+					"mastery": 6322
+				}, {
+					"points": 1,
+					"mastery": 6323
+				}, {
+					"points": 5,
+					"mastery": 6311
+				}, {
+					"points": 0,
+					"mastery": null
+				}, {
+					"points": 0,
+					"mastery": 6312
+				}]
+			}, {
+				"tree": "Resolve",
+				"total": 0,
+				"data": [{
+					"points": 0,
+					"mastery": 6261
+				}, {
+					"points": 0,
+					"mastery": 6262
+				}, {
+					"points": 0,
+					"mastery": 6263
+				}, {
+					"points": 0,
+					"mastery": 6251
+				}, {
+					"points": 0,
+					"mastery": null
+				}, {
+					"points": 0,
+					"mastery": 6252
+				}, {
+					"points": 0,
+					"mastery": 6241
+				}, {
+					"points": 0,
+					"mastery": 6242
+				}, {
+					"points": 0,
+					"mastery": 6231
+				}, {
+					"points": 0,
+					"mastery": null
+				}, {
+					"points": 0,
+					"mastery": 6232
+				}, {
+					"points": 0,
+					"mastery": 6221
+				}, {
+					"points": 0,
+					"mastery": 6223
+				}, {
+					"points": 0,
+					"mastery": 6211
+				}, {
+					"points": 0,
+					"mastery": null
+				}, {
+					"points": 0,
+					"mastery": 6212
+				}]
+			}]
+		}
+	}
+}]
