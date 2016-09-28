@@ -8,9 +8,13 @@
 
  ```
  module.exports = {
-   championGGToken : "%PUT_YOUR_TOKEN_HERE%"
+   championGGToken : "%PUT_YOUR_TOKEN_HERE%",
+   development: true,
+   outputDirectory:"output/",
+   fileExtension: "_data.html",
+   rawFileExtension: "_raw.json"
  }
  ```
- 
+
  npm i  
- npm single  
+ npm run single  
