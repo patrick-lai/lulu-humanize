@@ -248,7 +248,7 @@ class ChampionggApi {
           }
         })
       }
-      sleep.sleep(1000);
+      sleep.sleep(2);
     }
 
   }
