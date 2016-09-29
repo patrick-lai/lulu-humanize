@@ -40,12 +40,19 @@ class ChampionggApi {
       var jsonData;
 
       try{
-        jsonData = JSON.parse(data);
+
+        if(data instanceof Array || data instanceof Object) {
+          jsonData = data;
+        }else{
+          jsonData = JSON.parse(data);
+        }
+
         fs.writeFile(config.outputDirectory+"overall"+config.rawFileExtension,JSON.stringify(jsonData,null,2),function(err){
           if(err) return console.log(err);
         })
       }catch (e){
         console.log(e);
+        return;
       }
 
       for(var c of jsonData){
@@ -146,9 +153,16 @@ class ChampionggApi {
       var jsonData;
 
       try{
-        jsonData = JSON.parse(data);
+
+        if(data instanceof Array || data instanceof Object) {
+          jsonData = data;
+        }else{
+          jsonData = JSON.parse(data);
+        }
+
       }catch (e){
         console.log(e);
+        return;
       }
 
       for(var c of jsonData){
@@ -208,7 +222,7 @@ class ChampionggApi {
         ${masteries(c)}
         `;
 
-        fs.writeFile(config.outputDirectory+c+config.fileExtension,block,function(err){
+        fs.writeFile(config.outputDirectory+name+config.fileExtension,block,function(err){
           if(err) return console.log(err);
         })
 
@@ -234,16 +248,12 @@ class ChampionggApi {
           }
         })
       }
+      sleep.sleep(1000);
     }
 
   }
 
   convertToHtml(){
-    // Prepare fileSuffix
-    for(var c of this.listOfChampions){
-      fs.writeFile(config.outputDirectory+c+config.fileExtension, '', function(){console.log('Cleared output file')})
-      fs.writeFile(config.outputDirectory+c+config.rawFileExtension, '', function(){console.log('Cleared raw data')})
-    }
 
     // Fetch and convert play rate
     this.convertChampionData();
